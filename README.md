@@ -4,6 +4,8 @@ PostgreSQL, SQL, Python, pandas, python-telegram-bot
 
 SQL: JOIN, CTE, оконные функции (ROW_NUMBER, LAG, накопительные суммы), агрегации, срезы по периоду.
 
+Дашборд: [TED, планирование первой конференции](https://datalens.yandex/tyzry3r6ihaoc?_share_link=public)
+
 На Python пишу небольшой прикладной код. В [Bot_zagadki](https://github.com/hulusolga/Bot_zagadki) это модели на dataclass: пользователь с монетами, XP и уровнем по словарю порогов, стрик по разнице дат, загадка с нормализацией ответа (пробелы, регистр, ё/е) и подсказками по индексу, сессия с попытками. Банк загадок читается из JSON и отдаёт случайную, в том числе по сложности.
 
 hulusolga@gmail.com
